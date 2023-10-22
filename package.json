@@ -1,0 +1,26 @@
+{
+  "name": "reviser",
+  "version": "1.0.0",
+  "description": "This application is designed for reviewing study notes, it randomly retrieves notes and presents them to the user at a steady pace, combining randomness and frequency to enhance the memorization of key information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akheloes/Reviser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akheloes/Reviser/issues"
+  },
+  "homepage": "https://github.com/Akheloes/Reviser#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.0"
+  },
+  "dependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
